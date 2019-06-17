@@ -1,0 +1,2 @@
+# Djangogit
+Test için ayarladım.
